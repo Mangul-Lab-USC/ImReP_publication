@@ -34,6 +34,9 @@ that have been described here and in the [publication](https://doi.org/10.1038/s
 [summary_data](https://github.com/Mangul-Lab-USC/ImReP_publication/tree/master/summary_data) includes all of the data
 that directly created all figures in the manuscript.
 
+[supplementary](https://github.com/Mangul-Lab-USC/ImReP_publication/tree/master/supplementary) includes all of the 
+supplementary data files attached to the manuscript.
+
 While the raw data is not available through this repository, we are including the online sources for all raw data here:
 
 All RNA-Seq data discussed in this paper is available as part of the Genotype-Tissue Expression (GTEx) Project under 
@@ -55,6 +58,8 @@ An explanation of how we produced simulated data can be found in our supplementa
 
 Some files were too large to fit in a GitHub repository, so these are being hosted by 
 [figshare](https://doi.org/10.6084/m9.figshare.12210266)
+Notably, this includes the data required to generate Figure 5a, as well as the zipfile containing all of the data
+required to create all figures in this repository.
 
 ## Notebooks and Figures
 
